@@ -1,15 +1,17 @@
-# MusicPlayer
-This is the music player with the interactive UI for the easy access for user
-This application can be used to play mp3 songs. The key features in this are as follows,
-* It contains the ability to fetch all the mp3 songs from the Local Storage. 
-* User can create his/her favourites playlist.
+Enjoy Music App
+It is an mp3 music player with the interactive User Interface.
+The key features in this are as follows;
+* Has the ability to fetch all the mp3 songs from the Local Storage. 
+*You can create his/her favourites playlist.
 * Favourites playlist will be permanent until user deletes the songs.
-* User can also add some songs to the currently playing song list which will be temporary.
-* It also has search functionality which will the search the song and give the desired result.
-* It contains a interactive UI which allows user to control the songs. 
-These features are implemented with the help of :-
+* You can also add some songs to the currently playing song list but this will be temporary.
+* It also has a search function which is used to search your specific song.
+* Its interactive User Interface that enables a user to control the song playing. 
+All the above features are implimented by the use of the following.
 1. Navigation Drawer
 2. Fragments
 3. Viewpager
 4. SQLite Database
 5. Adapters.
+You can contact me at delickasiimwebanton@gmail.com
+Twitter: @asiimwedel
