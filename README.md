@@ -13,5 +13,5 @@ All the above features are implimented by the use of the following.
 3. Viewpager
 4. SQLite Database
 5. Adapters.
-You can contact me at delickasiimwebanton@gmail.com
+You can contact me at delickasiimwebanton@gmail.com,
 Twitter: @asiimwedel
